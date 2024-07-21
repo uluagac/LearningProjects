@@ -1,0 +1,76 @@
+/* Import */
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Playwrite+CU&family=Share+Tech+Mono&display=swap');
+
+/* Body */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    background: linear-gradient(to bottom right, rgb(83, 92, 145), rgb(146, 144, 195));
+    color: white;
+    /* rgb(83, 92, 145) */
+    /* rgb(146, 144, 195) */
+}
+#container {
+    text-align: center;
+    align-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Header */
+#header {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+}
+
+/* Clock */
+.clock-items {
+    padding: 25px 5px;
+    margin:0.5rem 0.5rem 0.5rem 0;
+    display: inline-block;
+    background-color: white;
+    color: black;
+    font-size: 6rem;
+    border-radius: 1rem;
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Date */
+#date {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 3rem;
+}
+
+/* Mode */
+#dark-mode{
+    text-align: right;
+    margin: 1rem 1rem 0 0;
+}
+#dark-button { 
+    background-color: rgb(27, 26, 85);
+    color: white;
+    border: 0;
+    border-radius: 1rem;
+    width: 5rem;
+    padding: 1rem;
+}
+#dark-button:hover {
+    opacity: 0.8;
+}
+#dark-button > i {
+    font-size: 2rem;
+}
