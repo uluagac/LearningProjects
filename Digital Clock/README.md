@@ -17,10 +17,11 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş bir dijital saat 
 **English:**
 - **Digital Time and Date**: Shows hours, minutes, seconds, and the current date.
 - **Dark/Light Mode Toggle**: Allows users to switch between dark and light mode.
-
+- **Automatic Dark Mode**: Automatically switches to dark mode between 20:00 and 08:00.
 **Türkçe:**
 - **Dijital Saat ve Tarih**: Saat, dakika, saniye ve güncel tarihi gösterir.
 - **Karanlık/Aydınlık Mod Geçişi**: Kullanıcının karanlık ve aydınlık mod arasında geçiş yapmasına olanak tanır.
+- **Otomatik Karanlık Mod**: Saat 20:00 ile 08:00 arasında otomatik olarak karanlık moda geçer.
 
 ---
 

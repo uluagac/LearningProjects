@@ -9,10 +9,7 @@
 }
 body {
     height: 100vh;
-    background: linear-gradient(to bottom right, rgb(83, 92, 145), rgb(146, 144, 195));
     color: white;
-    /* rgb(83, 92, 145) */
-    /* rgb(146, 144, 195) */
 }
 #container {
     text-align: center;
@@ -61,7 +58,6 @@ body {
     margin: 1rem 1rem 0 0;
 }
 #dark-button { 
-    background-color: rgb(27, 26, 85);
     color: white;
     border: 0;
     border-radius: 1rem;
