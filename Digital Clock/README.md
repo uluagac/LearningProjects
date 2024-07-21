@@ -1,5 +1,7 @@
 # Digital Clock / Dijital Saat
 
+![Digital Clock](digitalClock.gif)
+
 ## Description / Açıklama
 
 **English:**
@@ -39,9 +41,9 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş bir dijital saat 
 ## License / Lisans
 
 **English:**
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the `../LICENSE` file for more details.
 
 **Türkçe:**
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `../LICENSE` dosyasına bakın.
 
 ---
